@@ -6,7 +6,7 @@ Este repositorio contiene el proyecto final de investigación para la clase de *
 
 - Mario Grillo – 
 - Rubén Montenegro – 
-- Fernando Reyes – [@freyesaviles](https://github.com/fernandoreyes)
+- Fernando Reyes – [@freyesaviles](https://github.com/freyesaviles)
 
 ## 📁 Estructura del proyecto
 
