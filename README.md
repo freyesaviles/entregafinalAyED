@@ -9,13 +9,16 @@ Este repositorio contiene el proyecto final de investigación para la clase de *
 - Fernando Reyes – [@freyesaviles](https://github.com/fernandoreyes)
 
 ## 📁 Estructura del proyecto
+
+```
 entregafinalAyED/
 │
-├── bubble_sort.py                         # Implementación de Bubble Sort
+├── bubble_sort.py                         # Implementación de Bubble Sort 
 ├── binary_search.py                       # Implementación de Búsqueda Binaria
 ├── README.md                              # Documentación del proyecto
 ├── InformeTrabajoFinalAyED.pdf            # Informe escrito
 └── PresentacionTrabajoFinalAyED.pptx      # Presentación en PowerPoint
+```
 
 ## 🧠 Algoritmos implementados
 
