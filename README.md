@@ -4,7 +4,7 @@ Este repositorio contiene el proyecto final de investigación para la clase de *
 
 ## 👨‍💻 Autores
 
-- Mario Grillo
+- Mario Grillo - [@Fletcher17b](https://github.com/Fletcher17b)
 - Rubén Montenegro – [@Catwithstyle](https://github.com/Catwithstyle)
 - Fernando Reyes – [@freyesaviles](https://github.com/freyesaviles)
 
