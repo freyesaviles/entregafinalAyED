@@ -4,8 +4,8 @@ Este repositorio contiene el proyecto final de investigación para la clase de *
 
 ## 👨‍💻 Autores
 
-- Mario Grillo – 
-- Rubén Montenegro – 
+- Mario Grillo
+- Rubén Montenegro – [@Catwithstyle](https://github.com/Catwithstyle)
 - Fernando Reyes – [@freyesaviles](https://github.com/freyesaviles)
 
 ## 🧠 Algoritmos implementados
