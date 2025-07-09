@@ -1,13 +1,21 @@
-def bubble_sort(arr):
-    n = len(arr)
-    for i in range(n):
-        for j in range(0, n - i - 1):
-            if arr[j] > arr[j + 1]:
-                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+import time
 
-# Ejemplo de uso
-if __name__ == "__main__":
-    lista = [5, 2, 9, 1, 5, 6]
-    print("Lista original:", lista)
-    bubble_sort(lista)
-    print("Lista ordenada:", lista)
+class BubbleSort:
+    def __init__(self, memoria):
+        self.memoria = memoria
+
+    def ejecutar(self):
+        arr = self.memoria.obtener_datos()
+        n = len(arr)
+        print("\n--- Iniciando Bubble Sort ---")
+        inicio = time.time()
+
+        for i in range(n):
+            for j in range(0, n - i - 1):
+                if arr[j] > arr[j + 1]:
+                    arr[j], arr[j + 1] = arr[j + 1], arr[j]
+            print(f"Pasada {i + 1}: {arr}")  # Mostrar todos los elementos
+            time.sleep(0.3)
+
+        fin = time.time()
+        print(f"--- Bubble Sort terminado en {fin - inicio:.4f} segundos ---")
